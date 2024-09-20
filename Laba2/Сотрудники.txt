@@ -1,0 +1,5 @@
+- C# Backend разработчик (junior)
+- Frontend разработчик (Html+css+js+vue.js)
+- Designer (junior)
+- Teamleader (Senior C# backend developer)
+- Unit Tester (C#)
