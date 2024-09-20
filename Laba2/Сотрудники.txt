@@ -1,5 +1,11 @@
-- C# Backend разработчик (junior)
-- Frontend разработчик (Html+css+js+vue.js)
-- Designer (junior)
+- C# Backend разработчик (junior) :
+	70.000 руб;
+
+- Frontend разработчик Html+css+js+vue.js (junior)
+	60.000 руб;
+
+- Designer (junior) ??
+
 - Teamleader (Senior C# backend developer)
+394.951 руб;
 - Unit Tester (C#)
